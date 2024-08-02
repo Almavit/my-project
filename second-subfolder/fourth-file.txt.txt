@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-=======
-sds
-sadsd
-sdfdf
-
-sdsd
->>>>>>> new-feature
